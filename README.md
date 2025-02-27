@@ -4,9 +4,9 @@
 This project involved creating a prototype thermostat using the following hardware: Raspberry Pi 4, Adafruit AHT20 temperature sensor, GPIO breakout board, solderless breadboard. After developing a functioning prototype, I looked at what would be needed to develop the prototype into an actual product.  
 
 **What did you do particularly well?**  
-Overall, I think I did a good job developing the code for the prototype. 
+Overall, I think I did a good job developing the code for the prototype and utilizing techniques to make the code easy to read and understand. 
 
-**Where could you improve?**
+**Where could you improve?**  
 My analysis of what would be required to turn the prototype into an actual product could be improved. Going into this course, I had little knowledge of embedded systems and there are certainly still gaps in my knowledge.  
 
 **What tools and/or resources are you adding to your support network?**  
